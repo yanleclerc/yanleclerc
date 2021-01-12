@@ -43,4 +43,3 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 
 
 [![yanleclerc github stats](https://github-readme-stats.vercel.app/api?username=yanleclerc&show_icons=true&theme=radical)]
-(https://github.com/yanleclerc/github-readme-stats)
