@@ -10,6 +10,7 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 <img align="left" alt="yanleclerc | HTML" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="yanleclerc | CSS" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="yanleclerc | JS" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="yanleclerc | PHP" width="26px" disabled="disabled" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 <img align="left" alt="yanleclerc | SQL" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br>
@@ -25,8 +26,9 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 
 ### I’m currently learning: 
 
-<img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" 
-src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="yanleclerc | PYTHON" width="26px" disabled="disabled" src="https://img.icons8.com/color/64/000000/python.png" />
+
 
 
 
