@@ -37,4 +37,7 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 <img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
+<br>
+---
 
+[![yanleclerc github stats](https://github-readme-stats.vercel.app/api?username=yanleclerc)](https://github.com/anuraghazra/github-readme-stats)
