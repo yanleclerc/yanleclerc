@@ -4,6 +4,8 @@ I'm Yan from Canada and I study in Computer Science/Software engineering. I real
 
 While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering with friends around cold beverages.🥃
 
+- ⚡ Fun fact: I'm a One Piece addict ☠️⛵️
+
 ---
 
 ### Languages: 
@@ -36,18 +38,3 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 <img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 
-
-<!--
-**yanleclerc/yanleclerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
