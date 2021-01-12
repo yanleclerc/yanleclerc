@@ -2,9 +2,9 @@
 
 I'm Yan from Canada and I study in Computer Science/Software engineering. I really enjoy learning new languages and frameworks and test my skills on personal web-based projects. 
 
-While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering with friends around cold beverages.🥃
+While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering with friends around board games.
 
-- ⚡ Fun fact: I'm a One Piece addict ☠️⛵️
+- ⚡ Fun fact: I'm a One Piece addict
 
 ---
 
