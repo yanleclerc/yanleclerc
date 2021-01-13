@@ -41,9 +41,9 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 
 ---
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yanleclerc">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanleclerc&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yanleclerc">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanleclerc&layout=compact" />
 </a>
