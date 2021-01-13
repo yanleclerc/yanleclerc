@@ -41,6 +41,8 @@ While I'm not on my keyboard, I'm probably lifthing heavy stuff or gathering wit
 
 ---
 
+### GitHub stats: 
+
 <a href="https://github.com/yanleclerc">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanleclerc&show_icons=true&theme=tokyonight&hide_title=true" />
 </a>
