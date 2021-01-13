@@ -1,6 +1,6 @@
 ### Hi there - I'm Yan 👋
 
-Computer Science/Software engineering student. I really enjoy learning new languages and frameworks and test my skills on personal web-based projects. 
+Computer Science and Software engineering student. I really enjoy learning new languages and frameworks and test my skills on personal web-based projects. 
 
 While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social gathering with friends around board games.
 
