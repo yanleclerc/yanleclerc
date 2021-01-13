@@ -4,6 +4,7 @@ Computer Science and Software engineering student. I really enjoy learning new l
 
 While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social gathering with friends around board games.
 
+-  🔭 personal project: Learning Swift
 - ⚡ Fun fact: I'm a One Piece addict
 
 ---
