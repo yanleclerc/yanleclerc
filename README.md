@@ -38,7 +38,7 @@ While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social ga
 <img align="left" alt="yanleclerc | PYTHON" width="26px" disabled="disabled" src="https://img.icons8.com/color/64/000000/python.png" />
 <img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-
+<img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/fluent/48/000000/swift.png" />
 <br>
 
 ---
