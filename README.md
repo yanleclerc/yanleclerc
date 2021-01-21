@@ -49,5 +49,5 @@ While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social ga
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanleclerc&repo=github-readme-stats&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" disabled="disabled" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanleclerc&repo=github-readme-stats&layout=compact&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanleclerc&repo=github-readme-stats&layout=compact&langs_count=10" />
 </a>
