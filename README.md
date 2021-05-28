@@ -28,6 +28,9 @@ While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social ga
 <img align="left" alt="yanleclerc | GITHUB" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="yanleclerc | TERMINAL" width="26px" disabled="disabled" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="yanleclerc | NOTEPAD" width="26px" disabled="disabled" src="https://img.icons8.com/color/96/000000/notepad-plus-plus.png" />
+<img align="left" alt="yanleclerc | PYTHON" width="26px" disabled="disabled" src="https://img.icons8.com/color/64/000000/python.png" />
+<img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 <br>
 
@@ -35,9 +38,6 @@ While I'm not on my keyboard, I'm probably lifting heavy stuff or in a social ga
 
 ### I’m currently learning: 
 
-<img align="left" alt="yanleclerc | PYTHON" width="26px" disabled="disabled" src="https://img.icons8.com/color/64/000000/python.png" />
-<img align="left" alt="yanleclerc | C" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="yanleclerc | C++" width="26px" disabled="disabled" src="https://img.icons8.com/fluent/48/000000/swift.png" />
 <br>
 
