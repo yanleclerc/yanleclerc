@@ -75,3 +75,13 @@ Développement d'applications sous IOS(Apple)
 
 ### Concepteur de NFT's 🎨
 Art digital sous forme de cryptographie unique
+
+
+## 📊 Statistiques Github
+
+<a href="https://github.com/anuraghazra/github-readme-stats" disabled="disabled" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanleclerc&repo=github-readme-stats&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" disabled="disabled" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanleclerc&repo=github-readme-stats&layout=compact&langs_count=10" />
+</a>
