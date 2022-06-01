@@ -30,11 +30,16 @@ Lorsque que je ne suis pas au clavier, on peut me trouver dans la salle d'entrai
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
+![SWI-Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat)
 
 technologies supplémentaires
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat&logo=Jinja&logoColor=white)
 ![JUnit](https://img.shields.io/badge/tests-JUnit-25A162?style=flat)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
@@ -43,6 +48,7 @@ technologies supplémentaires
 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 ### IDE
 
@@ -65,6 +71,7 @@ technologies supplémentaires
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Atlassian&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins&logoColor=white)
 
 ## 📌 Projets Personnels
 
